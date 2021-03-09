@@ -8,13 +8,8 @@ public class AddIntegers {
 
         System.out.println("work");
 
-<<<<<<< HEAD
-        int first = 20;
-        int second = 30;
-=======
-        int first = 15;
-        int second = 25;
->>>>>>> 19931bdaec7d7227df513d2ba14d2ce254fd42bd
+        int first = 25;
+        int second = 35;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
