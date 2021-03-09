@@ -2,6 +2,8 @@ public class AddIntegers {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello world");
+
         int first = 15;
         int second = 25;
 
