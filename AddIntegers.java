@@ -4,8 +4,12 @@ public class AddIntegers {
 
         System.out.println("Hello world");
 
-        int first = 15;
-        int second = 25;
+        System.out.println("Hello Professor");
+
+        System.out.println("work");
+
+        int first = 20;
+        int second = 30;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
